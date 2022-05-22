@@ -643,7 +643,7 @@ li a{
     width: 100vw;
     background-image: url(../img/3.7%201500x900.jpg);
     background-size: cover;
-    object-fit: cover;
+    /*    object-fit: cover;*/
     background-attachment: fixed;
     display: flex;
     justify-content: center;
